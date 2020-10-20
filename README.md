@@ -1,6 +1,6 @@
 # DOS_LAB
 
-## Contributors
+### Contributors
 
 - ___***Sandip Swain***___. [Github Profile](https://github.com/sandipswain)
 
