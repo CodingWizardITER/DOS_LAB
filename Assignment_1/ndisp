@@ -1,0 +1,5 @@
+echo "Filename: $1"
+echo "First $2 lines"
+head -$2 $1
+echo "Last $3 lines"
+tail -$3 $1
